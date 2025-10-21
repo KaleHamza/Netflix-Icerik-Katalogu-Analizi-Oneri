@@ -1,5 +1,5 @@
 # Netflix İçerik Kataloğu Analizi ve Basit Öneri Sistemi
-!Link:https://www.kaggle.com/datasets/shivamb/netflix-shows
+Veri Link:https://www.kaggle.com/datasets/shivamb/netflix-shows
 bu proje keşifsel veri analizi (EDA), veri temizliği ve içerik tabanlı basit bir öneri sistemi (Recommendation System) denemesini kapsamaktadır.
 
 Proje Özeti
